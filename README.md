@@ -25,8 +25,8 @@ I'm always open to collaborating on exciting web development or AI art projects.
 - **Gaming chess + coding + exploring + learning + creating** = my happy place!
 
 ### ✨ Projects & Repos:
-- [Artymia](https://github.com/your-repo-link) – AI Art showcase platform
-- [Tetris Game](https://github.com/your-repo-link) – A Tetris game built with React
+- [Artymia](https://github.com/ArifMiah07/artymia) – AI Art showcase platform
+- [Tetris Game](https://github.com/) – A Tetris game built with React
 
 <!---
 ArifMiah07/ArifMiah07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
