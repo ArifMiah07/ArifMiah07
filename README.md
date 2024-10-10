@@ -26,7 +26,7 @@ I'm always open to collaborating on exciting web development or AI art projects.
 
 ### ✨ Projects & Repos:
 - [Artymia](https://github.com/ArifMiah07/artymia) – AI Art showcase platform
-- [Tetris Game](https://xfnf.netlify.app/playTetrisGame)) – A Tetris game built with React
+- [Friens and family](https://xfnf.netlify.app/) – A friend and family group
 
 <!---
 ArifMiah07/ArifMiah07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
