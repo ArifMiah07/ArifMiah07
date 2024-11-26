@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Arif Miah (ArifMiah07)
+![My Art](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w6zmzifqs7aogfka3o7nt2i/bafkreiewou73eo5bwykm2enjdljpxkdmeqwqpnx2vfeozuyaae4ru5cwnu@jpeg)
 
 ### 👨‍💻 About Me  
 I'm a **junior MERN stack developer** passionate about building interactive web applications. I'm on a continuous journey of learning and growing in **full-stack development**, as well as diving into **game development** using React and other modern technologies.  
