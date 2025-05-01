@@ -36,7 +36,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 
 - 🚀 Working on **vibe-chat**, a real-time chat application that connects people
 - 🌱 Mastering **Socket.io**, **SQLite**, and diving deep into **Web Security**
-- 🎮 Building **Tetris in React** because coding games is my playground
+- 🎮 Building **Chess in React** because coding games is my playground
 - 📚 Crafting a **creative arts book** blending technology and design
 - 💡 Constantly exploring new technologies to stay ahead in tech
 - ⚡ When I'm not coding, I'm a multi-sport athlete *(chess, football, cricket, badminton, swimming)*
