@@ -324,7 +324,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifmiah07&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arifmiah07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -379,4 +379,4 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 ---
 [![](https://visitcount.itsvg.in/api?id=arifmiah07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
