@@ -141,7 +141,14 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
+  <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea">
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/SketchBook-F37B1D?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk SketchBook">
+  <img src="https://img.shields.io/badge/Concepts-000000?style=for-the-badge&logo=concepts&logoColor=white" alt="Concepts App">
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape">
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="draw.io">
+  <img src="https://img.shields.io/badge/Lucidchart-FA5631?style=for-the-badge&logo=lucidchart&logoColor=white" alt="Lucidchart">
   <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita">
 </p>
 </details>
@@ -157,7 +164,9 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs">
   <img src="https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=shield&logoColor=white" alt="Cyber Security">
 </p>
 </details>
