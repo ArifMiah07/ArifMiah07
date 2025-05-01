@@ -91,22 +91,10 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Auth">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Auth">
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
   <img src="https://img.shields.io/badge/RESTful_APIs-6DB33F?style=for-the-badge&logo=swagger&logoColor=white" alt="RESTful APIs">
 </p>
@@ -114,12 +102,14 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="DBMS">
   <img src="https://img.shields.io/badge/Database_Design-4DB33D?style=for-the-badge&logo=datagrip&logoColor=white" alt="Database Design">
   <img src="https://img.shields.io/badge/Data_Modeling-FF6F00?style=for-the-badge&logo=datadog&logoColor=white" alt="Data Modeling">
-  <img src="https://img.shields.io/badge/Indexing_&_Optimization-2196F3?style=for-the-badge&logo=sqlite&logoColor=white" alt="Indexing and Optimization">
+  <img src="https://img.shields.io/badge/Indexing_&_Optimization-2196F3?style=for-the-badge&logo=sqlite&logoColor=white" alt="Indexing & Optimization">
 </p>
 </details>
+
 
 <details open>
 <summary><h3>🔧 Dev Tools & Deployment</h3></summary>
