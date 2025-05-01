@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/ArifMiah07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=70&lines=MERN+Stack+Developer;React+Ninja;Creative+Coder;UI/UX+Explorer;Always+Learning;Game+Dev+Enthusiast" alt="Typing SVG" />
+    <img style="width:100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=70&lines=MERN+Stack+Developer;React+Ninja;Creative+Coder;UI/UX+Explorer;Always+Learning;Game+Dev+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
