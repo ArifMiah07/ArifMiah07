@@ -370,3 +370,23 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arifmiah07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arifmiah07&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifmiah07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifmiah07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifmiah07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmiah07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="42%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arifmiah07&theme=discord&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" width="98%" />
+</div>
