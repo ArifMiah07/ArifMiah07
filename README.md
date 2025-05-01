@@ -11,7 +11,7 @@
   //https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w6zmzifqs7aogfka3o7nt2i/bafkreiewou73eo5bwykm2enjdljpxkdmeqwqpnx2vfeozuyaae4ru5cwnu@jpeg
   --->
 
-  <img src="https://raw.githubusercontent.com/ArifMiah07/ArifMiah07/main/assets/arifmia07-github-banner-or-cover-image.png" alt="My Art" width="100%" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(108, 52, 131, 0.5);">
+  <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/arifmiah07-github-banner-or-cover-image.png" alt="My Art" width="100%" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(108, 52, 131, 0.5);">
 </div>
 
 <div align="center">
