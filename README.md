@@ -371,12 +371,5 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arifmiah07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arifmiah07&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifmiah07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=arifmiah07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<!--- arifmiah07--->
