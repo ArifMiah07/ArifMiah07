@@ -241,17 +241,17 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
     <table>
       <tr>
         <td width="50%">
-          <h3 align="center">🎨 Artymia</h3>
+          <h3 align="center">🎨 Clyst</h3>
           <div align="center">  
-            <a href="https://github.com/ArifMiah07/artymia" target="_blank">
-              <img src="https://iili.io/JJ1Kw4t.png" alt="Artymia Project" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+            <a href="https://github.com/ArifMiah07/clyst" target="_blank">
+              <img src="https://iili.io/JJ1Kw4t.png" alt="Project Clyst" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
             <p>
-              <strong>Creative expression platform with powerful customization tools</strong>
+              <strong>Creative expression platform with powerful customization tools (social media + personal space hybrid app)</strong>
             </p>
             <div>
-              <a href="https://github.com/ArifMiah07/artymia" target="_blank">
+              <a href="https://github.com/ArifMiah07/clyst" target="_blank">
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
               <a href="#" target="_blank">
@@ -295,17 +295,17 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
       </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">🎮 React Tetris</h3>
+          <h3 align="center">🎮 React Chess</h3>
           <div align="center">  
             <a href="#" target="_blank">
-              <img src="https://iili.io/JJ1KcvS.png" alt="React Tetris Game" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+              <img src="https://iili.io/JJ1KcvS.png" alt="React Chess Game" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
             <p>
-              <strong>Interactive Tetris game with React hooks and custom animations</strong>
+              <strong>Interactive chess game with React hooks and custom animations</strong>
             </p>
             <div>
-              <a href="#" target="_blank">
+              <a href="https://github.com/ArifMiah07/react-chess" target="_blank">
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
               <a href="#" target="_blank">
