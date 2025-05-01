@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/ArifMiah07">
-    <img style="width:100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=70&lines=MERN+Stack+Developer;React+Ninja;Creative+Coder;UI/UX+Explorer;Always+Learning;Game+Dev+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=70&lines=MERN+Stack+Developer;React+Ninja;Creative+Coder;UI/UX+Explorer;Always+Learning;Game+Dev+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w6zmzifqs7aogfka3o7nt2i/bafkreiewou73eo5bwykm2enjdljpxkdmeqwqpnx2vfeozuyaae4ru5cwnu@jpeg" alt="My Art" width="500px" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(108, 52, 131, 0.5);">
+  <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w6zmzifqs7aogfka3o7nt2i/bafkreiewou73eo5bwykm2enjdljpxkdmeqwqpnx2vfeozuyaae4ru5cwnu@jpeg" alt="My Art" width="100%" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(108, 52, 131, 0.5);">
 </div>
 
 <div align="center">
