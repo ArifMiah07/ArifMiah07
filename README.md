@@ -277,7 +277,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
               <strong>Real-time chat application with advanced socket functionality</strong>
             </p>
             <div>
-              <a href="#" target="_blank">
+              <a href="https://github.com/ArifMiah07/vibe-chat" target="_blank">
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
               <a href="#" target="_blank">
@@ -330,7 +330,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
               <strong>Community platform for connecting friends and family groups</strong>
             </p>
             <div>
-              <a href="#" target="_blank">
+              <a href="https://github.com/ArifMiah07/xonxoni-fnf" target="_blank">
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
               <a href="https://xfnf.netlify.app/" target="_blank">
