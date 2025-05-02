@@ -1,8 +1,8 @@
-# <div align="center">🌟 ARIF MIAH | FULL-STACK WIZARD 🌟</div>
+# <div align="center">🌟 ARIF MIAH | FULL-STACK DEVELOPER 🌟</div>
 
 <div align="center">
   <a href="https://github.com/ArifMiah07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=70&lines=MERN+Stack+Developer;React+Ninja;Creative+Coder;UI/UX+Explorer;Always+Learning;Game+Dev+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=70&lines=MERN+Stack+Developer;React+Ninja;Creative+Coder;UI/UX+Enthusiast;Lifelong+Learner;Game+Dev+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,9 +39,9 @@
 
 Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating interactive web experiences that leave an impression. From responsive interfaces to scalable backends, I bring ideas to life with code.
 
-- 🚀 Working on **vibe-chat**, a real-time chat application that connects people
+- 🚀 Working on **vibe-chat**,a real-time app using **Socket.io** and **MongoDB**
 - 🌱 Mastering **Socket.io**, **SQLite**, and diving deep into **Web Security**
-- 🎮 Building **Chess in React** because coding games is my playground
+- 🎮 Building **Chess in React** as part of my creative coding exploration
 - 📚 Crafting a **creative arts book** blending technology and design
 - 💡 Constantly exploring new technologies to stay ahead in tech
 - ⚡ When I'm not coding, I'm a multi-sport athlete *(chess, football, cricket, badminton, swimming)*
