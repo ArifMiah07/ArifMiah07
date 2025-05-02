@@ -21,7 +21,7 @@
 [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=firefox&logoColor=white)](https://arifmiah.netlify.app)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arifmiah01)
 [![GitHub](https://img.shields.io/badge/-GITHUB-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArifMiah07)
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifmiah101@gmail.com)
+[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifmiah.me101@gmail.com)
   
 </div>
 
@@ -397,7 +397,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
     <a href="#"><img src="https://komarev.com/ghpvc/?username=arifmiah07&style=for-the-badge&color=6C3483&label=PROFILE+VIEWS" alt="Profile Views"/></a>
   </p>
   
-  <a href="mailto:arifmiah07@gmail.com">
+  <a href="mailto:arifmiah.me101@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-Message%20Now-6C3483?style=for-the-badge&logo=gmail" alt="Contact Me" />
   </a>
 </div>
