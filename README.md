@@ -18,10 +18,10 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifmiah01)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=firefox&logoColor=white)](https://arifmiah.dev)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=firefox&logoColor=white)](https://arifmiah.netlify.app)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arifmiah01)
 [![GitHub](https://img.shields.io/badge/-GITHUB-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArifMiah07)
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifmiah07@gmail.com)
+[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifmiah101@gmail.com)
   
 </div>
 
@@ -249,6 +249,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
           <h3 align="center">🎨 Clyst</h3>
           <div align="center">  
             <a href="https://github.com/ArifMiah07/clyst" target="_blank">
+              <!--- project img--->
               <img src="https://iili.io/JJ1Kw4t.png" alt="Project Clyst" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
@@ -259,7 +260,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
               <a href="https://github.com/ArifMiah07/clyst" target="_blank">
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
-              <a href="#" target="_blank">
+              <a href="https://clyst.netlify.app" target="_blank">
                 <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Site"/>
               </a>
             </div>
@@ -272,20 +273,20 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
           </div>
         </td>
         <td width="50%">
-          <h3 align="center">💬 Vibe-Chat</h3>
+          <h3 align="center">💬 Color Contrast Checker</h3>
           <div align="center">  
             <a href="#" target="_blank">
-              <img src="https://iili.io/JJ1KT9j.png" alt="Vibe Chat App" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+              <img src="https://iili.io/JJ1KT9j.png" alt="Color Contrast Checker" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
             <p>
-              <strong>Real-time chat application with advanced socket functionality</strong>
+              <strong>Color Contrast Checking Designing Tool</strong>
             </p>
             <div>
-              <a href="https://github.com/ArifMiah07/vibe-chat" target="_blank">
+              <a href="https://github.com/ArifMiah07/color-contrast-checker" target="_blank">
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
-              <a href="#" target="_blank">
+              <a href="https://contrasttree.vercel.app/" target="_blank">
                 <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site"/>
               </a>
             </div>
@@ -300,21 +301,21 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
       </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">🎮 React Chess</h3>
+          <h3 align="center">🎮 Smart kidz</h3>
           <div align="center">  
             <a href="#" target="_blank">
-              <img src="https://iili.io/JJ1KcvS.png" alt="React Chess Game" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+              <img src="https://iili.io/JJ1KcvS.png" alt="Smart kidz" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
             <p>
-              <strong>Interactive chess game with React hooks and custom animations</strong>
+              <strong>A Learning Platform for kids</strong>
             </p>
             <div>
-              <a href="https://github.com/ArifMiah07/react-chess" target="_blank">
+              <a href="https://github.com/ArifMiah07/phb9a11-client" target="_blank">
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
-              <a href="#" target="_blank">
-                <img src="https://img.shields.io/badge/Play-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Play Game"/>
+              <a href="https://smart-kidz-95c4e.web.app/" target="_blank">
+                <img src="https://img.shields.io/badge/Play-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Live Site"/>
               </a>
             </div>
             <p>
