@@ -292,7 +292,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
             </div>
             <p>
               <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-              <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+               <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
               <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
               <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
             </p>
@@ -315,7 +315,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
               <a href="https://smart-kidz-95c4e.web.app/" target="_blank">
-                <img src="https://img.shields.io/badge/Play-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Live Site"/>
+                <img src="https://img.shields.io/badge/Live-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Live Site"/>
               </a>
             </div>
             <p>
