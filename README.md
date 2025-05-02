@@ -250,7 +250,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
           <div align="center">  
             <a href="https://github.com/ArifMiah07/clyst" target="_blank">
               <!--- project img--->
-              <img src="https://iili.io/JJ1Kw4t.png" alt="Project Clyst" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+              <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/clyst.png" alt="Project Clyst" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
             <p>
@@ -276,7 +276,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
           <h3 align="center">💬 Color Contrast Checker</h3>
           <div align="center">  
             <a href="#" target="_blank">
-              <img src="https://iili.io/JJ1KT9j.png" alt="Color Contrast Checker" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+              <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/contrasttree.png" alt="Color Contrast Checker" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
             <p>
@@ -303,7 +303,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
           <h3 align="center">🎮 Smart kidz</h3>
           <div align="center">  
             <a href="#" target="_blank">
-              <img src="https://iili.io/JJ1KcvS.png" alt="Smart kidz" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+              <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/smartkidz-banner.png" alt="Smart kidz" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
             <p>
@@ -328,7 +328,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
           <h3 align="center">👨‍👩‍👧‍👦 Friends and Family</h3>
           <div align="center">  
             <a href="https://xfnf.netlify.app/" target="_blank">
-              <img src="https://iili.io/JJ1KDHg.png" alt="Friends and Family Website" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+              <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/image.png" alt="Friends and Family Website" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
             </a>
             <br><br>
             <p>
