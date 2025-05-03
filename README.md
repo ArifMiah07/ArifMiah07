@@ -310,7 +310,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
               <strong>A Learning Platform for kids</strong>
             </p>
             <div>
-              <a href="https://github.com/ArifMiah07/phb9a11-client" target="_blank">
+              <a href="https://github.com/ArifMiah07/smart-kidz" target="_blank">
                 <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>
               <a href="https://smart-kidz-95c4e.web.app/" target="_blank">
