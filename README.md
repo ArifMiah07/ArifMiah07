@@ -7,11 +7,6 @@
 </div>
 
 <div align="center">
-  <!--- ![Banner](https://raw.githubusercontent.com/ArifMiah07/ArifMiah07/main/assets/arifmia07-github-banner-or-cover-image.png)
-  //https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5w6zmzifqs7aogfka3o7nt2i/bafkreiewou73eo5bwykm2enjdljpxkdmeqwqpnx2vfeozuyaae4ru5cwnu@jpeg
-  //https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/arifmiah07-github-banner-or-cover-image.png
-  --->
-
   <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/arifmiah07-banner.png" alt="My Art" width="100%" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(108, 52, 131, 0.5);">
 </div>
 
@@ -110,8 +105,6 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="DBMS">
   <img src="https://img.shields.io/badge/Database_Design-4DB33D?style=for-the-badge&logo=datagrip&logoColor=white" alt="Database Design">
-  <img src="https://img.shields.io/badge/Data_Modeling-FF6F00?style=for-the-badge&logo=datadog&logoColor=white" alt="Data Modeling">
-  <img src="https://img.shields.io/badge/Indexing_&_Optimization-2196F3?style=for-the-badge&logo=sqlite&logoColor=white" alt="Indexing & Optimization">
 </p>
 </details>
 
@@ -139,22 +132,9 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<!--   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"> -->
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
-  <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea">
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/SketchBook-F37B1D?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk SketchBook">
-  <img src="https://img.shields.io/badge/Concepts-000000?style=for-the-badge&logo=concepts&logoColor=white" alt="Concepts App">
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape">
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="draw.io">
-  <img src="https://img.shields.io/badge/Lucidchart-FA5631?style=for-the-badge&logo=lucidchart&logoColor=white" alt="Lucidchart">
-  <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita">
 </p>
 </details>
 
@@ -169,8 +149,6 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs">
-  <img src="https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=shield&logoColor=white" alt="Cyber Security">
 </p>
@@ -208,150 +186,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
       <br>Next.js
     </td>
   </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" />
-      <br>Netlify
-    </td>
-  </tr>
 </table>
-</div>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div class="projects-container">
-  <div align="center">
-    <table>
-      <tr>
-        <td width="50%">
-          <h3 align="center">🎨 Clyst</h3>
-          <div align="center">  
-            <a href="https://github.com/ArifMiah07/clyst" target="_blank">
-              <!--- project img--->
-              <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/clyst.png" alt="Project Clyst" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
-            </a>
-            <br><br>
-            <p>
-              <strong>Creative expression platform with powerful customization tools (social media + personal space hybrid app)</strong>
-            </p>
-            <div>
-              <a href="https://github.com/ArifMiah07/clyst" target="_blank">
-                <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-              </a>
-              <a href="https://clyst.netlify.app" target="_blank">
-                <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Site"/>
-              </a>
-            </div>
-            <p>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-            </p>
-          </div>
-        </td>
-        <td width="50%">
-          <h3 align="center">💬 Color Contrast Checker</h3>
-          <div align="center">  
-            <a href="https://contrasttree.vercel.app/" target="_blank">
-              <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/contrasttree.png" alt="Color Contrast Checker" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
-            </a>
-            <br><br>
-            <p>
-              <strong>Color Contrast Checking Designing Tool</strong>
-            </p>
-            <div>
-              <a href="https://github.com/ArifMiah07/color-contrast-checker" target="_blank">
-                <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-              </a>
-              <a href="https://contrasttree.vercel.app/" target="_blank">
-                <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site"/>
-              </a>
-            </div>
-            <p>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-               <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-            </p>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <h3 align="center">🎮 Smart kidz</h3>
-          <div align="center">  
-            <a href="https://smart-kidz-95c4e.web.app/" target="_blank">
-              <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/smartkidz-banner.png" alt="Smart kidz" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
-            </a>
-            <br><br>
-            <p>
-              <strong>A Learning Platform for kids</strong>
-            </p>
-            <div>
-              <a href="https://github.com/ArifMiah07/smart-kidz" target="_blank">
-                <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-              </a>
-              <a href="https://smart-kidz-95c4e.web.app/" target="_blank">
-                <img src="https://img.shields.io/badge/Live-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Live Site"/>
-              </a>
-            </div>
-            <p>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-            </p>
-          </div>
-        </td>
-        <td width="50%">
-          <h3 align="center">👨‍👩‍👧‍👦 Friends and Family</h3>
-          <div align="center">  
-            <a href="https://xfnf.netlify.app/" target="_blank">
-              <img src="https://github.com/ArifMiah07/ArifMiah07/blob/main/assets/image.png" alt="Friends and Family Website" style="width:100%; height:250px; object-fit:cover; border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
-            </a>
-            <br><br>
-            <p>
-              <strong>Community platform for connecting friends and family groups</strong>
-            </p>
-            <div>
-              <a href="https://github.com/ArifMiah07/xonxoni-fnf" target="_blank">
-                <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-              </a>
-              <a href="https://xfnf.netlify.app/" target="_blank">
-                <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Site"/>
-              </a>
-            </div>
-            <p>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-              <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-            </p>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
 </div>
 
 ---
@@ -367,17 +202,6 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmiah07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="42%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arifmiah07&theme=discord&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" width="98%" />
-</div>
-
----
-
-<div align="center">
-  <h2>💭 Coding Philosophy</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%" />
-</div>
-
 ---
 
 <div align="center">
@@ -387,7 +211,7 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
 
 ---
 
-# <div align="center">📫 Let's Connect & Build Something Amazing Together!</div>
+# <div align="center">📫 Let's Connect!</div>
 
 <div align="center">
   <p>Whether you want to talk about development, brainstorm ideas, or just chat about tech - my virtual door is always open!</p>
@@ -406,5 +230,4 @@ Hello! I'm **Arif**, a passionate MERN stack developer with a love for creating 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
-
-<!--- arifmiah07--->
+<!---arifmiah07--->
