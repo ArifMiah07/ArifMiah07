@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifmiah01)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifmiah07)
 [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=firefox&logoColor=white)](https://arif-miah-portfolio.vercel.app)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arifmiah01)
 [![GitHub](https://img.shields.io/badge/-GITHUB-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArifMiah07)
